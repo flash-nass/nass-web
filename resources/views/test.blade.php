@@ -30,9 +30,86 @@
     <div class="wrapper clearfix">
       <main class="main">
         <p class="bar new">NEW</p>
+        <div class="row">
+          <a href="#">
+          <div class="card-action col s60 m7">
+            <div class="card small">
+              <div class="card-image">
+                <img src="img/test.jpg">
+                <span class="card-title">Title</span>
+              </div>
+              <div class="card-content">
+                <p>I am a very simple card. I am good at containing small bits of information. </p>
+              </div>
+            </div>
+          </div>
+          </a>
+          <a href="#">
+          <div class="card-action col s60 m7">
+            <div class="card small">
+              <div class="card-image">
+                <img src="img/test.jpg">
+                <span class="card-title">Title</span>
+              </div>
+              <div class="card-content">
+                <p>I am a very simple card. I am good at containing small bits of information. </p>
+              </div>
+            </div>
+          </div>
+          </a>
+          
+        </div>
       </main>
 
       <div class="sidemenu">
+      <ol class="ranking">
+        <p class="">よく読まれている記事</p>
+
+
+
+        <li class="ranking-item">
+          <a href="#">
+            <img class="image" src="./images/ranking.jpg" alt="グラフの画像">
+            <span class="order"></span>
+            <p class="text">HTML/CSSコーディングと切っても切れないWebブラウザのシェア動向をチェックしよう</p>
+          </a>
+        </li>
+        <li class="ranking-item">
+          <a href="#">
+            <img class="image" src="./images/ranking.jpg" alt="グラフの画像">
+            <span class="order"></span>
+            <p class="text">HTML/CSSコーディングと切っても切れないWebブラウザのシェア動向をチェックしよう</p>
+          </a>
+        </li>
+        <li class="ranking-item">
+          <a href="#">
+            <img class="image" src="./images/ranking.jpg" alt="グラフの画像">
+            <span class="order"></span>
+            <p class="text">HTML/CSSコーディングと切っても切れないWebブラウザのシェア動向をチェックしよう</p>
+          </a>
+        </li>
+        <li class="ranking-item">
+          <a href="#">
+            <img class="image" src="./images/ranking.jpg" alt="グラフの画像">
+            <span class="order"></span>
+            <p class="text">HTML/CSSコーディングと切っても切れないWebブラウザのシェア動向をチェックしよう</p>
+          </a>
+        </li>
+        <li class="ranking-item">
+          <a href="#">
+            <img class="image" src="./images/ranking.jpg" alt="グラフの画像">
+            <span class="order"></span>
+            <p class="text">HTML/CSSコーディングと切っても切れないWebブラウザのシェア動向をチェックしよう</p>
+          </a>
+        </li>
+        <li class="ranking-item">
+          <a href="#">
+            <img class="image" src="./images/ranking.jpg" alt="グラフの画像">
+            <span class="order"></span>
+            <p class="text">HTML/CSSコーディングと切っても切れないWebブラウザのシェア動向をチェックしよう</p>
+          </a>
+        </li>
+      </ol>
       </div>
 
       <div class="service">
@@ -40,7 +117,9 @@
       </div>
 
       <div class="contact">
+        <p class="bar infomation">infomation</p>
       </div>
+
     </div>
 
     <footer class="footer">

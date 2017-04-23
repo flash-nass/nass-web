@@ -58,3 +58,31 @@
 .b-service{
   background:#005FFF;
 }
+.infomation{
+  background:#5f9ea0;
+}
+
+/* --------------------------------
+ * sidemenu
+ * -------------------------------- */
+.ranking {
+  margin-bottom: 30px;
+  list-style-type: none;
+  counter-reset: ranking;
+}
+.ranking .ranking-item {
+  margin-top: 15px;
+}
+.ranking .ranking-item a {
+  display: block;
+  font-size: 0;
+  transition: opacity 0.15s;
+}
+.ranking .ranking-item a:hover {
+  opacity: 0.8;
+}
+
+.card,.card-action{ 
+  width:200px;
+  height:300px;
+}
